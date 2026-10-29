@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Developer001284 👋
 
-<!--
-**Developer001284/Developer001284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | AI Enthusiast | Aspiring Software Engineer
+📍 Coimbatore, India
 
-Here are some ideas to get you started:
+### 💻 Skills
+- Python, Git & GitHub
+- Learning AI / LLM
+- Building Real-world Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced Python & AI integration
+- Building AI-powered apps
+
+### 📫 Connect with me
+- GitHub: github.com/Developer001284
+
+### 🔥 My Goal
+Looking for AI Software Intern role to build products using LLMs!
